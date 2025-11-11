@@ -23,7 +23,7 @@ The dashboard helps HR teams gain insights into employee demographics, job satis
 
 ## 🖼️ Dashboard Preview
 Here’s a snapshot of the dashboard 👇  
-![HR Analytics Dashboard Screenshot](screenshot (38).png)
+Screenshot (38).png
 
 ---
 
